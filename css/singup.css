@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    direction: rtl;
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+}
+
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
+.container {
+    padding-top: 25px;
+}
+
+.navbar-nav {
+
+    position: relative;
+}
+
+.bg-cover {
+    text-align: center;
+    line-height: 1.15;
+    background-color: rgba(159, 161, 161, 0.13);
+}
+
+.display-6 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+
+    background-color: rgb(231, 230, 230);
+    text-align: right;
+}
+
+.logo {
+    padding-right: 25px;
+}
+
+#clear footer {
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    height: 50px;
+    padding-top: 15px;
+    text-align: center;
+
+    font-weight: bold;
+}
+
+#footer p {
+    font-weight: bold;
+
+}

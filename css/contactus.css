@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    direction: rtl;
+
+}
+
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
+.container {
+    padding-top: 25px;
+}
+
+.navbar-nav {
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+    position: relative;
+}
+
+.jumbotron {
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+}
+
+.bg-cover {
+    text-align: center;
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+    line-height: 1.15;
+    background-color: rgb(231, 230, 230);
+
+}
+
+.display-6 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+    background-color: rgb(231, 230, 230);
+    text-align: right;
+}
+
+.logo {
+    padding-right: 25px;
+}
+
+#clear footer {
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    height: 50px;
+    padding-top: 15px;
+    text-align: center;
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+    font-weight: bold;
+}
+
+#footer p {
+    font-weight: bold;
+    font-family: "Alef Hebrew",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+}

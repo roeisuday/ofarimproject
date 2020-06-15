@@ -1,0 +1,23 @@
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.nav_bg {
+    background-color: rgb(233, 170, 132);
+}
+
+#kfar_Span {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding-right: 2px;
+}
+
+
+
+.logo_kfar {
+    width: 65px;
+    text-align: left;
+}

@@ -1,0 +1,122 @@
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+  font-family: "Alef Hebrew",
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+.container {
+  padding-top: 25px;
+  font-weight: bold;
+
+}
+
+
+.navbar-nav {
+
+  position: relative;
+
+}
+
+.lead {
+
+  font-weight: bold;
+
+}
+
+.jumbotron {
+
+  font-weight: bold;
+
+}
+
+.bg-cover {
+  text-align: right;
+
+  line-height: 1.15;
+  background-color: rgba(159, 161, 161, 0.13);
+  font-weight: bold;
+
+}
+
+.display-6 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+
+  background-color: rgb(231, 230, 230);
+
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+
+
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: unset;
+  clear: left;
+  display: table;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.logo {
+  padding-right: 25px;
+}
+
+
+
+#clear {
+  clear: both;
+}
+
+footer {
+  width: 100%;
+  margin-top: 1%;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+  height: 50px;
+  padding-top: 15px;
+  text-align: center;
+
+  font-weight: bold;
+}
+
+#footer p {
+  font-weight: bold;
+
+}
+
+.display-2 {
+  text-align: center;
+  font-size: 15px;
+  position: relative;
+  font-weight: bold;
+
+
+}
